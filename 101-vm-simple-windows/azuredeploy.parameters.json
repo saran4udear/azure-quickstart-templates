@@ -12,8 +12,7 @@
       "value": "abcd1234"
     },
     "location": {
-    "type": "string",
-    "value": "[resourceGroup().location]"
+      "value": "[resourceGroup().location]"
     }
   }
 }
